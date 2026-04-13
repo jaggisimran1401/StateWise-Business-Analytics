@@ -35,7 +35,7 @@ This project analyzes business performance across different states to provide ac
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](screenshots/DashBoard.jpeg)
+![Dashboard Preview](DashBoard.jpeg)
 
 ---
 
